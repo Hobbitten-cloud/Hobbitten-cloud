@@ -1,16 +1,37 @@
-## Hi there 👋
-- 🌱 I’m currently learning about object oriented programming in C#
+# Hi there, I'm Nicklas 👋
+
+🎓 **Final-semester Computer Science student** focused on full-stack web development, software architecture, and system design.
+
+---
+
+### 💻 Tech Stack & Tools
+
+**Languages**
+* C# (.NET Core, Console Apps) | TypeScript | JavaScript | Python | HTML5 | CSS3
+
+**Frameworks & Frontend**
+* React | Next.js | Vite
+
+**Backend & Databases**
+* ASP.NET Core | MS SQL Server | Supabase (PostgreSQL)
+
+**Architecture & Tooling**
+* System Modeling (UML, Use Cases, Class Diagrams) | Visual Studio | VS Code | Postman | Docker
+
+**Past Projects & Interests**
+* Unity 2D Game Development
+
+---
+
+### 🚀 What I'm Up To
+* 🎓 Finishing up my final semester of Computer Science
+* 📐 Designing clean software architectures using UML modeling and robust backend APIs
+* 🔨 Building full-stack web applications with React, Vite, Next.js, and .NET Core
+
+---
+
 <!--
-**Hobbitten-cloud/Hobbitten-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://yourportfolio.com)
 -->
