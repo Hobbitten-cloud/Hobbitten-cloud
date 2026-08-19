@@ -7,7 +7,7 @@
 ### 💻 Tech Stack & Tools
 
 **Languages**
-* C# (.NET Core, Console Apps) | TypeScript | JavaScript | Python | HTML5 | CSS3
+* C# (.NET Core, Console Apps) | TypeScript | JavaScript | Python | Squirrel | HTML5 | CSS3
 
 **Frameworks & Frontend**
 * React | Next.js | Vite
@@ -19,6 +19,7 @@
 * System Modeling (UML, Use Cases, Class Diagrams) | Visual Studio | VS Code | Postman | Docker
 
 **Past Projects & Interests**
+* Valve Hammer Editor with 6+ years of experience
 * Unity 2D Game Development
 
 ---
@@ -27,6 +28,7 @@
 * 🎓 Finishing up my final semester of Computer Science
 * 📐 Designing clean software architectures using UML modeling and robust backend APIs
 * 🔨 Building full-stack web applications with React, Vite, Next.js, and .NET Core
+* 🔨 Building counter strike source maps in my free time with hammer++
 
 ---
 
